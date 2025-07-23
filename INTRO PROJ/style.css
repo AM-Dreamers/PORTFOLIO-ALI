@@ -1,0 +1,28 @@
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(153, 148, 148);  
+    text-align: center;
+    font-family: sans-serif; 
+}
+.intro{
+    font-size: 1.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+h1{
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(115, 61, 61);
+}
+
+img{
+    height : 40vh; 
+    border: 0.3em solid black;
+    border-radius: 1.5rem; 
+    
+}
